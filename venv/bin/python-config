@@ -1,4 +1,4 @@
-#!/home/tonysunyueran/Desktop/SN/social-network/venv/bin/python
+#!/home/tonysunyueran/Desktop/yueranTalka/yueranTalk/venv/bin/python
 
 import sys
 import getopt
